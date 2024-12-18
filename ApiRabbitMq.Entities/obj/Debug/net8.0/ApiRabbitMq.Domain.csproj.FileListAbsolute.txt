@@ -1,0 +1,11 @@
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Entities\bin\Debug\net8.0\ApiRabbitMq.Domain.deps.json
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Entities\bin\Debug\net8.0\ApiRabbitMq.Domain.dll
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Entities\bin\Debug\net8.0\ApiRabbitMq.Domain.pdb
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Entities\obj\Debug\net8.0\ApiRabbitMq.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Entities\obj\Debug\net8.0\ApiRabbitMq.Domain.AssemblyInfoInputs.cache
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Entities\obj\Debug\net8.0\ApiRabbitMq.Domain.AssemblyInfo.cs
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Entities\obj\Debug\net8.0\ApiRabbitMq.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Entities\obj\Debug\net8.0\ApiRabbitMq.Domain.dll
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Entities\obj\Debug\net8.0\refint\ApiRabbitMq.Domain.dll
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Entities\obj\Debug\net8.0\ApiRabbitMq.Domain.pdb
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Entities\obj\Debug\net8.0\ref\ApiRabbitMq.Domain.dll

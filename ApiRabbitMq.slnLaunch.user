@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "ApiRabbitMq\\ApiRabbitMq.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ApiRabbitMQ.ConsoleApp\\ApiRabbitMQ.ConsoleApp.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

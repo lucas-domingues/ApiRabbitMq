@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiRabbitMq", "ApiRabbitMq\ApiRabbitMq.csproj", "{FFC87488-F3BF-429D-876C-CC28D1A8566B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiRabbitMQ.ConsoleApp", "ApiRabbitMQ.ConsoleApp\ApiRabbitMQ.ConsoleApp.csproj", "{185E5CF9-5900-4167-87DE-9B8460DD0533}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiRabbitMq.Domain", "ApiRabbitMq.Entities\ApiRabbitMq.Domain.csproj", "{C632E57E-4C43-45FC-976C-F40C95DE7F1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiRabbitMq.Application", "ApiRabbitMq.Application\ApiRabbitMq.Application.csproj", "{F2738203-4D99-473B-8E54-B91C76E4D9B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiRabbitMq.Infrastructure", "ApiRabbitMq.Infrastructure\ApiRabbitMq.Infrastructure.csproj", "{96D11652-2366-4366-B37D-C194C0FFD863}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFC87488-F3BF-429D-876C-CC28D1A8566B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC87488-F3BF-429D-876C-CC28D1A8566B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC87488-F3BF-429D-876C-CC28D1A8566B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC87488-F3BF-429D-876C-CC28D1A8566B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{185E5CF9-5900-4167-87DE-9B8460DD0533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{185E5CF9-5900-4167-87DE-9B8460DD0533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{185E5CF9-5900-4167-87DE-9B8460DD0533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{185E5CF9-5900-4167-87DE-9B8460DD0533}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C632E57E-4C43-45FC-976C-F40C95DE7F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C632E57E-4C43-45FC-976C-F40C95DE7F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C632E57E-4C43-45FC-976C-F40C95DE7F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C632E57E-4C43-45FC-976C-F40C95DE7F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2738203-4D99-473B-8E54-B91C76E4D9B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2738203-4D99-473B-8E54-B91C76E4D9B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2738203-4D99-473B-8E54-B91C76E4D9B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2738203-4D99-473B-8E54-B91C76E4D9B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96D11652-2366-4366-B37D-C194C0FFD863}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D11652-2366-4366-B37D-C194C0FFD863}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D11652-2366-4366-B37D-C194C0FFD863}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D11652-2366-4366-B37D-C194C0FFD863}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

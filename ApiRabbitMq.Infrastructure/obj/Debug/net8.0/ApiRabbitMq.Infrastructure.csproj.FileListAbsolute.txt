@@ -1,0 +1,17 @@
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Infrastructure\bin\Debug\net8.0\ApiRabbitMq.Infrastructure.deps.json
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Infrastructure\bin\Debug\net8.0\ApiRabbitMq.Infrastructure.runtimeconfig.json
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Infrastructure\bin\Debug\net8.0\ApiRabbitMq.Infrastructure.dll
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Infrastructure\bin\Debug\net8.0\ApiRabbitMq.Infrastructure.pdb
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Infrastructure\bin\Debug\net8.0\ApiRabbitMq.Domain.dll
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Infrastructure\bin\Debug\net8.0\ApiRabbitMq.Domain.pdb
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Infrastructure\obj\Debug\net8.0\ApiRabbitMq.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Infrastructure\obj\Debug\net8.0\ApiRabbitMq.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Infrastructure\obj\Debug\net8.0\ApiRabbitMq.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Infrastructure\obj\Debug\net8.0\ApiRabbitMq.Infrastructure.AssemblyInfo.cs
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Infrastructure\obj\Debug\net8.0\ApiRabbitMq.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Infrastructure\obj\Debug\net8.0\ApiRabbi.5D2B6140.Up2Date
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Infrastructure\obj\Debug\net8.0\ApiRabbitMq.Infrastructure.dll
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Infrastructure\obj\Debug\net8.0\refint\ApiRabbitMq.Infrastructure.dll
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Infrastructure\obj\Debug\net8.0\ApiRabbitMq.Infrastructure.pdb
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Infrastructure\obj\Debug\net8.0\ApiRabbitMq.Infrastructure.genruntimeconfig.cache
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Infrastructure\obj\Debug\net8.0\ref\ApiRabbitMq.Infrastructure.dll

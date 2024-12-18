@@ -1,0 +1,17 @@
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Application\bin\Debug\net8.0\ApiRabbitMq.Application.deps.json
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Application\bin\Debug\net8.0\ApiRabbitMq.Application.dll
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Application\bin\Debug\net8.0\ApiRabbitMq.Application.pdb
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Application\bin\Debug\net8.0\ApiRabbitMq.Domain.dll
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Application\bin\Debug\net8.0\ApiRabbitMq.Infrastructure.dll
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Application\bin\Debug\net8.0\ApiRabbitMq.Domain.pdb
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Application\bin\Debug\net8.0\ApiRabbitMq.Infrastructure.pdb
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Application\obj\Debug\net8.0\ApiRabbitMq.Application.csproj.AssemblyReference.cache
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Application\obj\Debug\net8.0\ApiRabbitMq.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Application\obj\Debug\net8.0\ApiRabbitMq.Application.AssemblyInfoInputs.cache
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Application\obj\Debug\net8.0\ApiRabbitMq.Application.AssemblyInfo.cs
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Application\obj\Debug\net8.0\ApiRabbitMq.Application.csproj.CoreCompileInputs.cache
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Application\obj\Debug\net8.0\ApiRabbi.425E4BCE.Up2Date
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Application\obj\Debug\net8.0\ApiRabbitMq.Application.dll
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Application\obj\Debug\net8.0\refint\ApiRabbitMq.Application.dll
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Application\obj\Debug\net8.0\ApiRabbitMq.Application.pdb
+C:\Users\lds16\source\repos\ApiRabbitMq\ApiRabbitMq.Application\obj\Debug\net8.0\ref\ApiRabbitMq.Application.dll
