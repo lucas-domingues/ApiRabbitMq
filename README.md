@@ -43,7 +43,7 @@ This project is a .NET Core application that leverages RabbitMQ for asynchronous
 ### **Steps to Run**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/lucas-domingues/ApiRabbitMq.git
    ```
 
 2. Configure the connection string for SQL Server and RabbitMQ in the `appsettings.json` file.
